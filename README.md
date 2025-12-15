@@ -4,4 +4,4 @@ This site was created to present some information about the 2BFAIR framework and
 
 The file [2BFAIR-user-guide](https://github.com/leogazevedo/2BFAIR/blob/main/2BFAIR-user-guide.pdf) presents how to use the user interface of 2BFAIR.
 
-The frontend and backend codes are in a process for approval to become open-source by IBM which was not concluded before the 2BFAIR paper submission.
+The 2BFAIR framework, backend, and frontend are available at [github.com/IBM/2BFAIR-framework](https://github.com/IBM/2BFAIR-framework).
